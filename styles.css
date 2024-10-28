@@ -1,0 +1,10 @@
+#app{
+    background-color: white;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    min-width: 100vw;
+    gap: 5%;
+    
+}
